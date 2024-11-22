@@ -15,7 +15,7 @@ module.exports = {
   // public = AnyOne Working
   // inbox = Only Working  Inbox
   // groups = only working in group
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "94718913389",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "94742817784",
   //========================================- OTHER - CONFIGS -=====================================================================
   AUTO_VOICE: process.env.AUTO_VOICE || "true",
   ANTI_BAD_WORDS_ENABLED: process.env.ANTI_BAD_WORDS_ENABLED || "true",
@@ -26,7 +26,7 @@ module.exports = {
   ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
   ALWAYS_TYPING: process.env.ALWAYS_TYPING || "true",
   ALWAYS_RECORDING: process.env.ALWAYS_RECORDING || "true",
-  ANTI_BOT: process.env.ANTI_BOT || "true",
+  ANTI_BOT: process.env.ANTI_BOT || "false",
   ANTI_DELETE: process.env.ANTI_DELETE || "true",
   packname: process.env.packname || "SAHAS TECH",
   author: process.env.author || "SAHAS TECH",
